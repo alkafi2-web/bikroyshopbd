@@ -1,0 +1,4 @@
+[20-Dec-2022 00:20:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/maisunba/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/maisunba/public_html/config/cache.php on line 20
